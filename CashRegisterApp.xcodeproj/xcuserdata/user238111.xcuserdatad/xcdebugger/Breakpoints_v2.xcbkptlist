@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B450CE7-9BCE-4EA8-9A0B-B1861D142E8D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "222D4B0C-53B5-4B53-88B9-9F299FDFD83F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CashRegisterApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "processBuyAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "222D4B0C-53B5-4B53-88B9-9F299FDFD83F - 6b959f60fccaaa34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CashRegisterApp.ViewController.processBuyAction(Any) -&gt; ()"
+                  moduleName = "CashRegisterApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user238111/Documents/ios%20apps/CashRegisterApp/CashRegisterApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "222D4B0C-53B5-4B53-88B9-9F299FDFD83F - 6b959f60fccaaa34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CashRegisterApp.ViewController.processBuyAction(Any) -&gt; ()"
+                  moduleName = "CashRegisterApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user238111/Documents/ios%20apps/CashRegisterApp/CashRegisterApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFA6A8DD-6B2B-42A3-9DF9-22C52D45131F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CashRegisterApp/SingleTransactionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2890916A-7119-47B9-93D4-3B7E4A1171EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CashRegister.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "processBuyAction(selectedProduct:selectedQuantity:index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
